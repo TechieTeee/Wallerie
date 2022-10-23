@@ -1,6 +1,7 @@
 ## Wallerie
 
-![Walleria_Logos](https://user-images.githubusercontent.com/100870737/197387273-36e3aeca-7728-40ed-9346-7a4499074e0d.png)
+
+![Wallerie_Logos](https://user-images.githubusercontent.com/100870737/197388721-1fcac3a2-dedf-41ea-9650-984d6ec88e94.png)
 
 
 Display NFTs in Wallet w/ Ad-Hoc Queries
